@@ -18,3 +18,25 @@ A responsive, professional website designed for an automotive service and towing
 * **HTML5:** Structure and semantic markup.
 * **CSS3:** Custom styling for layout and responsiveness.
 * **JavaScript:** Interactive elements and UI functionality.
+
+🚀 How to Run
+Clone the repository
+
+Bash
+
+git clone [https://github.com/SyedAnas807/Gulf-Shores-Service-Center-and-Towing-site.git](https://github.com/SyedAnas807/Gulf-Shores-Service-Center-and-Towing-site.git)
+Navigate to the project directory
+
+Bash
+
+cd Gulf-Shores-Service-Center-and-Towing-site
+Open index.html
+
+Double-click index.html to view the site in your browser.
+
+👤 Author
+Syed Anas
+
+GitHub: @SyedAnas807
+
+This project is for educational/portfolio purposes.
